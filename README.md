@@ -22,6 +22,8 @@
 
 
 ### ✍️ Случайная цитата разработчика:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Случайная цитата разработчика
+![Случайная цитата](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&lang=ru)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Гордо создано с использованием GPRM (https://gprm.itsvg.in) -->
+
