@@ -20,7 +20,7 @@
 
 
 
-### ✍️ Случайная цитата разработчика
+### ✍️ Случайная цитата разработчика:
 ![Случайная цитата](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&lang=ru)
 
 
