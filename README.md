@@ -1,9 +1,6 @@
 <h1 align="left">
-"Я питонист, а вокруг фронтендеры"</h1>
-<h2 align="left">Дмитрий, 24 года </h2>  
-<h3 Backend-разработчик из Екатеринбурга </h3>
-<h4 Оканчиваю бакалавриат по специальности "Информационные сети и технологии"</h4>
-
+Я питонист, а вокруг фронтендеры</h1>
+<h3 align="left">Backend-разработчик из Екатеринбурга</h3>
 
 
 ## 🌐 Связь со мной:
@@ -23,9 +20,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akhundMurad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akhundMurad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhundMurad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=100kwt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=100kwt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=100kwt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
