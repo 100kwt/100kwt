@@ -2,10 +2,6 @@
 <h3 align="left">Дмитрий, 25 лет<br>УрГПУ<br>Информационные системы и технологии (09.03.02)<br>
 <a href="https://www.avito.ru/moskva/predlozheniya_uslug/reshu_vashi_zadachi_po_python_3096219926">Занимаюсь коммерческой проектной деятельностью</a>
 </h3>
-<div style="display: flex; justify-content: space-between;">
-  <img src="./img/1.png" alt="Описание первого изображения" style="width: 45%;" />
-  <img src="./img/2.png" alt="Описание второго изображения" style="width: 45%;" />
-</div>
 
 
 
