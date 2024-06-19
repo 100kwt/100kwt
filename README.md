@@ -3,7 +3,10 @@
 <a href="https://www.avito.ru/moskva/predlozheniya_uslug/reshu_vashi_zadachi_po_python_3096219926">Занимаюсь коммерческой проектной деятельностью</a>
 </h3>
 
-![Описание изображения](./img/1.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="./img/1.png" alt="Описание первого изображения" style="width: 45%;" />
+  <img src="./img/2.png" alt="Описание второго изображения" style="width: 45%;" />
+</div>
 
 
 
