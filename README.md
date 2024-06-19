@@ -1,5 +1,5 @@
 <h1 align="left">
-[!pepehello](https://cdn3.emoji.gg/emojis/5276-pepehello.png) Обо мне:</h1>
+## 👨🏻‍💻Обо мне:</h1>
 <h3 align="left">Дмитрий, 25 лет<br>УрГПУ<br>Информационные системы и технологии (09.03.02)<br></h3>
 
 
