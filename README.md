@@ -1,5 +1,5 @@
 <h1 align="left">👨🏻‍💻Обо мне:</h1>
-<h3 align="left">Дмитрий, 26 лет<br>УрГПУ<br>Информационные системы и технологии (09.03.02)<br>
+<h3 align="left">Дмитрий, 27 лет<br>УрГПУ<br>Информационные системы и технологии (09.03.02)<br>
 <a href="https://www.avito.ru/moskva/predlozheniya_uslug/reshu_vashi_zadachi_po_python_3096219926">Занимаюсь коммерческой проектной деятельностью</a>
 </h3>
 <div style="display: flex; justify-content: space-between;">
